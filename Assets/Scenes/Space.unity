@@ -988,8 +988,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0213c1661977a664f8774fff3256d49e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  asteroidCount: 1000
-  distance: 500
+  asteroidCount: 10000
+  distance: 350
   asteroids:
   - {fileID: 151664, guid: fa49e460baf435b4780da7196c2ab473, type: 3}
   - {fileID: 141316, guid: 84cc3cd234dfc9d4d9d2e92c0eb0af75, type: 3}
